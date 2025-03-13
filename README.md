@@ -4,7 +4,11 @@
 - Design & UX Research – I create interfaces that feel like second nature.<br>
 - Front-End Development – Turning ideas into responsive, mobile-friendly wonders.<br>
 - Accessibility & Inclusivity – Making tech usable for everyone.<br><br>
-- Achievements:<br>🏅 Finalist in multiple UI/UX & Software Dev competitions (GemasTIK, Intuitiva, ITCC)<br>🏅 1st place in UI/UX Design Competition at ITCC Universitas Udayana<br>🏅 Recognized by BCA Scholarship for Learning Growth
+
+## 🏅 Achievements:
+- Finalist in multiple UI/UX & Software Dev competitions (GemasTIK, Intuitiva, ITCC)
+- 1st place in UI/UX Design Competition at ITCC Universitas Udayana
+-  Recognized by BCA Scholarship for Learning Growth
 
 
 ## 🌐 Socials
