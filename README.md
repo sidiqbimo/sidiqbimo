@@ -1,7 +1,7 @@
 # Hello, I'm Bimo! 👋
 🎨 UI/UX Designer | 💻 Front-End Developer | 🤖 Tech Enthusiast<br><br>🚀 I blend design thinking with code to craft user-friendly digital experiences! Whether it's intuitive mobile apps, sleek web designs, or accessible UX research, I'm always up for the challenge.<br><br>
 💡 What I Do:<br>
-- Design & UX Research – I create interfaces that feel like second nature.<br>
+- UI Design & UX Research – I create interfaces that feel like second nature.<br>
 - Front-End Development – Turning ideas into responsive, mobile-friendly wonders.<br>
 - Accessibility & Inclusivity – Making tech usable for everyone.<br><br>
 
